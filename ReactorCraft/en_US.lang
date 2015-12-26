@@ -41,6 +41,13 @@ machine.steamdiffuser=Steam Diffuser
 
 reactor.lamp=Tritium Lamp
 
+reactorstruct.heater=Preheater Assembly
+reactorstruct.generator=Turbine Generator
+reactorstruct.injector=Fusion Injector
+reactorstruct.solenoid=Solenoid Magnet
+reactorstruct.hpturbine=High Pressure Turbine
+reactorstruct.flywheel=Turbine Flywheel
+
 ore.pitchblende=Pitchblende
 ore.fluorite=Fluorite
 ore.cadmium=Cadmium Ore
